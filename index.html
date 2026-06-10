@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tuto 09</title>
+    <link rel="stylesheet" href="./css/9.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+  <header>
+    <div class="logo">
+        <img src="./Images/GPT.png" alt="">
+    </div>
+    <h1 class="title">Facultad de Ciencias de Bangui</h1>
+     
+    <nav>
+      <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="../Tuto 09/Prototipo/index.html">General</a></li>
+        <li><a href="#">Servicios</a></li>
+        <li><a href="#">Contactos</a></li>
+      </ul>
+    </nav>
+  </header>
+  
+
+    <div class="contenedor">
+
+
+        <div class="card-login">
+            <h1 class="titulo">INICIAR SESIÓN</h1>
+
+            <div class="card">
+            <h2>🔑. Seleccionar un nivel de acceso</h2>
+            <label for="user-select">Iniciar sesión como:</label>
+            <select id="user-select" onchange="actualizarUsuarioActivo()">
+                <option value="5">(Estudiante - Nivel 1)</option>
+                <option value="4">(Profesor - Nivel 2)</option>
+                <option value="3">(Secretaria - Nivel 3)</option>
+                <option value="2">(Jefe departamento - Nivel 4)</option>
+                <option value="1">(Decano / Vice decano - Nivel 5)</option>
+            </select>
+            <div id="user-status" style="font-size: 13px; color: #475569; line-height: 1.4;"></div>
+        </div>
+
+            <form>
+                <div class="grupo">
+
+                    <label>Usuario</label>
+
+                    <input type="text" placeholder="Ingrese su usuario">
+
+                    <small>
+                        Introduzca el usuario creado durante el registro.
+                    </small>
+
+                </div>
+
+                <div class="grupo">
+
+                    <label>Contraseña</label>
+
+                    <input type="password" placeholder="Ingrese su contraseña">
+
+                    <small>
+                        Escriba su contraseña de acceso.
+                    </small>
+
+                </div>
+
+                <div class="enlaces">
+
+                    <a href="#">
+                        ¿Olvidó su contraseña?
+                    </a>
+
+                </div>
+
+                <input type="submit" id="btn-login" value="Iniciar sesión">
+                     
+                </input>
+
+            </form>
+
+            <div class="registro">
+
+                <p>
+                    ¿No tiene cuenta?
+                </p>
+
+                <a href="./Registro/registro.html">Registrarse</a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <footer>
+        <div class="footer-container">
+            <div class="footer-section">
+                <h3>Historía</h3>
+                <p>Bonita vida
+                </p>
+            </div>
+            <div class="footer-section">
+                <h3>Trabajadores</h3>
+                <ul>
+                    <li><a href="#">Christ Merveille TOUTOULY</a></li>
+                    <li><a href="#">Alberto Sergent MBOMIO MBOMIO</a></li>
+                    <li><a href="#">Pedro Juan ANDRIX</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>SEGUIDORES</h3>
+                <ul class="socials">
+                    <li><a href="#">Facebook</a></li>
+                    <li><a href="#">Twitter</a></li>
+                    <li><a href="#">Instagram</a></li>
+                    <li><a href="#">LinkedIn</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p><i class="fas fa-phone"></i>Telefono: <a href="+23672554433">+236 72 55 44 33</a> / <a href="+23675664438">+236 75 66 44 38</a> / <a href="+23670114330">+236 70 11 43 30</a></p>
+            <p id="lien"><a href="https://www.google.com/search?q=facultad+de+ciencias+de+bangui&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMg8IARAjGCcY6gIY8AUYngYyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIPCAYQIxgnGOoCGPAFGJ4GMg8IBxAjGCcY6gIY8AUYngbSAQkxMDMwajBqMTWoAgiwAgHxBT_muaaAqCuO&sourceid=chrome&ie=UTF-8">universidaddebangui.com</a></p>
+            <p>&copy; 2026 MiSite. Todos derechos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>

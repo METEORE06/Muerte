@@ -1,0 +1,17 @@
+[
+    {
+        "Id" : "1",
+        "Nombre" : "Merveille Diego DANG MBA",
+        "Fecha Nac" : "23/12/2000",
+        "Carrera" : "SVT",
+        "Nacionalidad" : "Centroafricano"
+    },
+
+    {
+        "Id" : "2",
+        "Nombre" : "Nilile Diez PODANG MBABA",
+        "Fecha Nac" : "13/02/2005",
+        "Carrera" : "SVT",
+        "Nacionalidad" : "EcuatoGuineano"
+    }
+]
