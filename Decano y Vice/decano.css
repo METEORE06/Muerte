@@ -1,5 +1,5 @@
 :root{
-  --bgi3: url(../Images/GPT.png);
+  --bgi3: url(../Images/images.jpg);
   --br: 1rem;
 }
 
@@ -7,9 +7,8 @@
 body{
   padding: 0px;
   margin: 0px;
-  background-color: #f4f4f4;
+  background-image: white;
   border-radius: var(--br);
-  
 }
 
 /*HEADER*/
@@ -17,7 +16,7 @@ body{
 .title{
   color: #ff9800;
   font-size: 450%;
-  margin-right: 18%;
+  padding-right: 10%;
 }
 
 header{
@@ -49,7 +48,7 @@ nav ul {
 
 nav ul li {
   font-size: 120%;
-  padding-right: 15vh;
+  margin-left: 20px;
 }
 
 nav ul li a {
@@ -59,9 +58,57 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #ff9800;
+  color: #ff9800;
 }
 
+/*ELEMENTOS*/
+.main{
+  height: auto;
+  margin: 40px;
+  padding: 20px;
+}
+
+.main h1{
+  font-weight: bold;
+  color: #000000;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 20px;
+  padding-left: 10%;
+  margin-bottom: 25px;
+}
+
+
+.card-elementos {
+  background: white;
+  padding: 22px;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0,0,0,.08);
+  border-top: 6px solid transparent;
+  transition: transform .25s ease, box-shadow .25s ease;
+  width: 80%;
+}
+
+.card-elementos:hover{
+  transform: translateY(-6px);
+  box-shadow: 0 14px 10px rgba(0,0,0,.12);
+}
+
+.card-elementos p {
+  color: #444;
+  font-size: 16px;
+}
+
+.card-elementos {
+  border-top-color: #0974e7;
+}
+
+.total{
+    text-overflow: #0974e7;
+}
 
 /*Tabla*/
 
@@ -87,16 +134,6 @@ th, td {
   text-align: center;
 }
 
-.all{
-  margin: 40px;
-  padding: 20px;
-}
-
-.documentos{
-  margin-top: 8%;
-}
-
-
 /*FOOTER*/
 
 footer {
@@ -104,7 +141,7 @@ footer {
   color: #ddd;
   padding: 20px 40px;
   border-radius: 1rem;
-  margin-top: 20%;
+  margin-top: 30px;
 }
 .footer-container {
   display: flex;
