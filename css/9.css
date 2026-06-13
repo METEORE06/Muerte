@@ -1,13 +1,15 @@
 :root{
   --bgi3: url(../Images/images.jpg);
   --br: 1rem;
+  --card-bg: white;
+  --secondary: #ff9800;
 }
 
 
 body{
   padding: 0px;
   margin: 0px;
-  background-image: var(--bgi3);
+  background-color: #cbd5e1;
   border-radius: var(--br);
 }
 
@@ -16,12 +18,12 @@ body{
 .title{
   color: #ff9800;
   font-size: 450%;
-  padding-right: 10%;
+  margin-right: 22%;
 }
 
 header{
   background-color: #222;
-  color: white;
+  color: var(--card-bg);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -53,7 +55,7 @@ nav ul li {
 
 nav ul li a {
   text-decoration: none;
-  color: white;
+  color: var(--card-bg);
   transition: color 0.3s;
 }
 
@@ -69,7 +71,7 @@ footer {
   color: #ddd;
   padding: 20px 40px;
   border-radius: 1rem;
-  margin-top: 30px;
+  margin-top: 10px;
 }
 .footer-container {
   display: flex;
@@ -123,17 +125,6 @@ p a{
 }
 
 
-
-
-#body{
-  height: 50rex;
-  width: 99%;
-  background-color: rgba(5, 233, 5, 0.5);
-  overflow:auto;
-  margin-top: 02px;
-  margin-left: 8px;
-}
-
 /*Acceso*/
 
 .card {
@@ -149,7 +140,7 @@ p a{
 h2 {
   font-size: 18px; 
   margin-top: 0; 
-  color: var(--secondary); 
+  color: #222; 
   border-bottom: 2px solid #f1f5f9; 
   padding-bottom: 8px; 
 }
@@ -175,6 +166,7 @@ select {
 
 .contenedor{
   display:flex;
+  background-color: gainsboro;
   justify-content:center;
   align-items:center;
   min-height:100vh;
@@ -183,7 +175,7 @@ select {
 }
 
 .card-login{
-  background:white;
+  background: var(--card-bg);
   width:100vh;
   padding:40px;
   border-radius:15px;
@@ -192,7 +184,7 @@ select {
 
 .card-login h1{
   text-align:center;
-  color:#003366;
+  color:#292727;
   margin-bottom:10px;
 }
 
@@ -227,7 +219,7 @@ input{
 input:focus{
 
   outline:none;
-  border:1px solid #0056b3;
+  border:1px solid #005;
 }
 
 small{
@@ -246,7 +238,7 @@ small{
 .enlaces a{
 
   text-decoration:none;
-  color:#0056b3;
+  color:#af6d0b;
   font-size:14px;
 }
 
@@ -258,8 +250,8 @@ small{
 #btn-login{
 
   width:100%;
-  background:#0056b3;
-  color: #ffffff;
+  background-color:#ff9800;  
+  color: var(--card-bg);
   border:none;
   padding:14px;
   border-radius:8px;
@@ -268,8 +260,7 @@ small{
 }
 
 #btn-login:hover{
-
-  background:#003f88;
+  background:#be7507;
 }
 
 .registro{
@@ -288,7 +279,7 @@ small{
 
   text-decoration:none;
 
-  color:#0056b3;
+  color:#af6d0b;
 
   font-weight:bold;
 }

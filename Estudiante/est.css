@@ -1,0 +1,148 @@
+:root{
+  --bgi3: url(../Images/images.jpg);
+  --br: 1rem;
+}
+
+
+body{
+  padding: 0px;
+  margin: 0px;
+  background-color: white;
+  border-radius: var(--br);
+}
+
+/*HEADER*/
+
+.title{
+  color: #ff9800;
+  font-size: 450%;
+  padding-right: 22%;
+}
+
+header{
+  background-color: #222;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  border-radius: var(--br);
+}
+
+.logo img{
+  width: 10em;
+  border-radius: 3rem;
+  transition: 300ms ease-in;
+}
+
+.logo img:hover{
+  border-radius: 1rem;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav ul li {
+  font-size: 120%;
+  margin-left: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  transition: color 0.3s;
+}
+
+nav ul li a:hover {
+  color: #ff9800;
+}
+
+/*Tabla*/
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 15px;
+}
+
+table, th, td {
+  border: 1px solid #ccc;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+
+.lista{
+  margin-top: 5%;
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+}
+
+/*FOOTER*/
+
+footer {
+  background-color: #222;
+  color: #ddd;
+  padding: 20px 40px;
+  border-radius: 1rem;
+  margin-top: 30px;
+}
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.footer-section {
+  flex: 1;
+  margin: 10px;
+}
+.footer-section h3 {
+  color: #ff9800;
+}
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+}
+.footer-section ul li {
+  margin: 5px 0;
+}
+.footer-section ul li a {
+  color: #ddd;
+  text-decoration: none;
+}
+.footer-section ul li a:hover {
+  color: #ff9800;
+}
+.footer-bottom {
+  text-align: center;
+  margin-top: 20px;
+  border-top: 1px solid #444;
+  padding-top: 10px;
+}
+
+p a{
+  color: aqua;
+}
+
+#lien a{
+  font-style: italic;
+  color: aqua;
+}
+
+#lien a:hover{
+  color: rgb(22, 199, 81);
+}
+
+#lien a:active{
+  background-color: #ffffff;
+  color: #222;
+}

@@ -115,7 +115,7 @@ input:focus,select:focus{
 
     text-decoration:none;
 
-    background:#0056b3;
+    background:#ff9800;
 
     color:white;
 
@@ -128,7 +128,7 @@ input:focus,select:focus{
 
 .btn-registrar:hover{
 
-    background:#003f88;
+    background:#0056b3;
 }
 
 .btn-cancelar{

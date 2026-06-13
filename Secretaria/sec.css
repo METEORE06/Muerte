@@ -1,22 +1,24 @@
 :root{
-  --bgi3: url(../Images/images.jpg);
+  --bgi3: url(../Images/GPT.png);
   --br: 1rem;
+  --secondary: #ff9800;
 }
 
 
 body{
   padding: 0px;
   margin: 0px;
-  background: #f4f4f4;
+  background-color: #f4f4f4;
   border-radius: var(--br);
+  
 }
 
 /*HEADER*/
 
 .title{
   color: #ff9800;
-  font-size: 450%;
-  padding-right: 10%;
+  font-size: 400%;
+  margin-right: 15%;
 }
 
 header{
@@ -44,12 +46,11 @@ nav ul {
   margin: 0;
   padding: 0;
   display: flex;
-
 }
 
 nav ul li {
   font-size: 120%;
-  margin-left: 20px;
+  padding-right: 5vh;
 }
 
 nav ul li a {
@@ -110,16 +111,17 @@ nav ul li a:hover {
 }
 
 .card-elementos {
-  border-top-color: #0974e7;
+  border-top-color: var(--secondary);
 }
+
+
+/*Tabla*/
 
 table {
   width: 100%;
   border-collapse: collapse;
   margin-top: 15px;
 }
-
-/*Tabla*/
 
 table, th, td {
   border: 1px solid #ccc;
