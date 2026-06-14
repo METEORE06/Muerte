@@ -15,9 +15,7 @@
     <h1 class="title">Facultad de Ciencias de Bangui</h1>
      
     <nav>
-      <ul>
-        <li><a href="#">Cerrar pagina</a></li>
-      </ul>
+        <button id="cerrar">Cerrar Pagina</button>
     </nav>
   </header>
   
@@ -25,28 +23,30 @@
     <div class="contenedor">
 
 
-        <div class="card-login">
-            <h1 class="titulo">INICIAR SESIÓN</h1>
+        
 
-            <div class="card">
-            <h2>🔑. Seleccionar un nivel de acceso</h2>
-            <label>Iniciar sesión como:</label>
-            <select id="user-select" onchange="actualizarUsuarioActivo()">
-                <option value="5">(Estudiante - Nivel 1)</option>
-                <option value="4">(Profesor - Nivel 2)</option>
-                <option value="3">(Secretaria - Nivel 3)</option>
-                <option value="2">(Jefe departamento - Nivel 4)</option>
-                <option value="1">(Decano / Vice decano - Nivel 5)</option>
-            </select>
+            <form id="loginForm">
+
+                <div class="card-login">
+                <h1 class="titulo">INICIAR SESIÓN</h1>
+
+                <div class="card">
+                <h2>🔑. Seleccionar un nivel de acceso</h2>
+                <label>Iniciar sesión como:</label>
+                <select id="user-select" onchange="actualizarUsuarioActivo()">
+                    <option value="5">(Estudiante - Nivel 1)</option>
+                    <option value="4">(Profesor - Nivel 2)</option>
+                    <option value="3">(Secretaria - Nivel 3)</option>
+                    <option value="2">(Jefe departamento - Nivel 4)</option>
+                    <option value="1">(Decano / Vice decano - Nivel 5)</option>
+                </select>
             
-        </div>
-
-            <form>
+                </div>
                 <div class="grupo">
 
                     <label>Usuario</label>
 
-                    <input type="text" placeholder="Ingrese su usuario">
+                    <input type="text" id="usuario" placeholder="Ingrese su usuario" required>
 
                     <small>
                         Introduzca el usuario creado durante el registro.
@@ -58,7 +58,7 @@
 
                     <label>Contraseña</label>
 
-                    <input type="password" placeholder="Ingrese su contraseña">
+                    <input type="password" id="password" placeholder="Ingrese su contraseña" required>
 
                     <small>
                         Escriba su contraseña de acceso.
@@ -128,5 +128,7 @@
             <p>&copy; 2026 Facultad de Ciencias de Bangui. Todos derechos reservados.</p>
         </div>
     </footer>
+
+    <script src="./All _JS/index.js"></script>
 </body>
 </html>

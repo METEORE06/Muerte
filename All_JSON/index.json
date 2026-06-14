@@ -1,0 +1,27 @@
+[
+    {
+        "Nivel de acceso":"Nivel 1",
+        "Nombre":"Jean Carlos BOBEDI",
+        "Contrasena":"12345"
+    },
+    {
+        "Nivel de acceso":"Nivel 2",
+        "Nombre":"Luigi BOEDI",
+        "Contrasena":"1234"
+    },
+    {
+        "Nivel de acceso":"Nivel 3",
+        "Nombre":"Juana Chancelle ANDRIX BITO",
+        "Contrasena":"123456"
+    },
+    {
+        "Nivel de acceso":"Nivel 4",
+        "Nombre":"Jean Paul BOBEDI",
+        "Contrasena":"12345"
+    },
+    {
+        "Nivel de acceso":"Nivel 5",
+        "Nombre":["Alberto Sergent MBOMIO MBOMIO", "Christ Merveille TOUTOULY"],
+        "Contrasena":["54321","654321"]
+    }
+]

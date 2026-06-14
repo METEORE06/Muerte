@@ -1,0 +1,322 @@
+[
+    {
+        "Id" : "57",
+        "Nombre" : "Arthur BONG",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 13.7,
+        "Nacionalidad" : "Camerunés"
+    },
+    {
+        "Id" : "58",
+        "Nombre" : "Béatrice ADAMA",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 9.4,
+        "Nacionalidad" : "Centroafricano"
+    },
+    {
+        "Id" : "59",
+        "Nombre" : "Cédric MVE",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 16.2,
+        "Nacionalidad" : "Gabonés"
+    },
+    {
+        "Id" : "60",
+        "Nombre" : "Dorothée SANOU",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 14.5,
+        "Nacionalidad" : "Burkinabe"
+    },
+    {
+        "Id" : "61",
+        "Nombre" : "Emmanuel TSHILOMBO",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 10.3,
+        "Nacionalidad" : "Congoleño"
+    },
+    {
+        "Id" : "62",
+        "Nombre" : "Fatoumata SACKO",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 15.8,
+        "Nacionalidad" : "Maliense"
+    },
+    {
+        "Id" : "63",
+        "Nombre" : "Gaston GAKOSSO",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 12.1,
+        "Nacionalidad" : "Congoleño"
+    },
+    {
+        "Id" : "64",
+        "Nombre" : "Hélène KONDÉ",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 17.0,
+        "Nacionalidad" : "Guineano"
+    },
+    {
+        "Id" : "65",
+        "Nombre" : "Ibrahim NIANG",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 13.9,
+        "Nacionalidad" : "Senegalés"
+    },
+    {
+        "Id" : "66",
+        "Nombre" : "Josiane EBOLA",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 11.0,
+        "Nacionalidad" : "Camerunés"
+    },
+    {
+        "Id" : "67",
+        "Nombre" : "Kévin NDONG",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 14.2,
+        "Nacionalidad" : "Gabonés"
+    },
+    {
+        "Id" : "68",
+        "Nombre" : "Latifa BARRO",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 7.6,
+        "Nacionalidad" : "Burkinabe"
+    },
+    {
+        "Id" : "69",
+        "Nombre" : "Marius NGOUALA",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 16.5,
+        "Nacionalidad" : "Congoleño"
+    },
+    {
+        "Id" : "70",
+        "Nombre" : "Nafissatou CISSÉ",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 13.3,
+        "Nacionalidad" : "Maliense"
+    },
+    {
+        "Id" : "71",
+        "Nombre" : "Ousmane DIA",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 10.9,
+        "Nacionalidad" : "Senegalés"
+    },
+    {
+        "Id" : "72",
+        "Nombre" : "Prisca MBAI",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 5.1,
+        "Nacionalidad" : "Centroafricano"
+    },
+    {
+        "Id" : "73",
+        "Nombre" : "Quentin BILOGO",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 12.4,
+        "Nacionalidad" : "Gabonés"
+    },
+    {
+        "Id" : "74",
+        "Nombre" : "Rachid COULIBALY",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 4.7,
+        "Nacionalidad" : "Marfileño"
+    },
+    {
+        "Id" : "75",
+        "Nombre" : "Sabine TCHOUTA",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 11.6,
+        "Nacionalidad" : "Camerunés"
+    },
+    {
+        "Id" : "76",
+        "Nombre" : "Toussaint LOUA",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 16.0,
+        "Nacionalidad" : "Guineano"
+    },
+    {
+        "Id" : "77",
+        "Nombre" : "Ulrich KABORE",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 13.0,
+        "Nacionalidad" : "Burkinabe"
+    },
+    {
+        "Id" : "78",
+        "Nombre" : "Viviane MABIALA",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 10.5,
+        "Nacionalidad" : "Congoleño"
+    },
+    {
+        "Id" : "79",
+        "Nombre" : "Willy NGUEMA",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 15.4,
+        "Nacionalidad" : "Gabonés"
+    },
+    {
+        "Id" : "80",
+        "Nombre" : "Xavière GOMA",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 12.8,
+        "Nacionalidad" : "Congoleño"
+    },
+    {
+        "Id" : "81",
+        "Nombre" : "Yaya DIALLO",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 4.1,
+        "Nacionalidad" : "Guineano"
+    },
+    {
+        "Id" : "82",
+        "Nombre" : "Zita AKOU",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 11.2,
+        "Nacionalidad" : "Togolés"
+    },
+    {
+        "Id" : "83",
+        "Nombre" : "Alain TOURE",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 16.7,
+        "Nacionalidad" : "Marfileño"
+    },
+    {
+        "Id" : "84",
+        "Nombre" : "Bernadette MATSOUA",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 13.5,
+        "Nacionalidad" : "Congoleño"
+    },
+    {
+        "Id" : "85",
+        "Nombre" : "Christian OKA",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 10.7,
+        "Nacionalidad" : "Camerunés"
+    },
+    {
+        "Id" : "86",
+        "Nombre" : "Denise ZONGO",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 14.9,
+        "Nacionalidad" : "Burkinabe"
+    },
+    {
+        "Id" : "87",
+        "Nombre" : "Éric MANGA",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 12.3,
+        "Nacionalidad" : "Gabonés"
+    },
+    {
+        "Id" : "88",
+        "Nombre" : "Florence SOW",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 15.6,
+        "Nacionalidad" : "Senegalés"
+    },
+    {
+        "Id" : "89",
+        "Nombre" : "Gérard TOUNKARA",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 13.1,
+        "Nacionalidad" : "Guineano"
+    },
+    {
+        "Id" : "90",
+        "Nombre" : "Henriette BARRY",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 11.8,
+        "Nacionalidad" : "Maliense"
+    },
+    {
+        "Id" : "91",
+        "Nombre" : "Innocent NZEYIMANA",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 16.3,
+        "Nacionalidad" : "Burundés"
+    },
+    {
+        "Id" : "92",
+        "Nombre" : "Juliette TANOH",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 8.0,
+        "Nacionalidad" : "Marfileño"
+    },
+    {
+        "Id" : "93",
+        "Nombre" : "Karamoko TRAORÉ",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 10.6,
+        "Nacionalidad" : "Maliense"
+    },
+    {
+        "Id" : "94",
+        "Nombre" : "Lucienne MBANG",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 15.2,
+        "Nacionalidad" : "Centroafricano"
+    },
+    {
+        "Id" : "95",
+        "Nombre" : "Marc ESSOMBA",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 9.9,
+        "Nacionalidad" : "Camerunés"
+    },
+    {
+        "Id" : "96",
+        "Nombre" : "Nadine ONDO",
+        "Carrera" : "PC",
+        "Total_creditos" : 29,
+        "Nota_final" : 9.9,
+        "Nacionalidad" : "Gabonés"
+    }
+]

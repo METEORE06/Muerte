@@ -2,395 +2,449 @@
     {
         "Id" : "1",
         "Nombre" : "Merveille Diego DANG MBA",
-        "FechaNac" : "23/12/2000",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 4.5,
         "Nacionalidad" : "Centroafricano"
     },
     {
         "Id" : "2",
         "Nombre" : "Lucas MENDES",
-        "FechaNac" : "14/05/2001",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 11.2,
         "Nacionalidad" : "Camerunés"
     },
     {
         "Id" : "3",
         "Nombre" : "Amandine DIALLO",
-        "FechaNac" : "02/11/1999",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 6.8,
         "Nacionalidad" : "Marfileño"
     },
     {
         "Id" : "4",
         "Nombre" : "Thomas KOFFI",
-        "FechaNac" : "28/02/2002",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 13.1,
         "Nacionalidad" : "Gabonés"
     },
     {
         "Id" : "5",
         "Nombre" : "Sophie TRAORÉ",
-        "FechaNac" : "09/01/1998",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 10.4,
         "Nacionalidad" : "Congoleño"
     },
     {
         "Id" : "6",
         "Nombre" : "Chloé NGOUABI",
-        "FechaNac" : "11/07/2003",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 15.2,
         "Nacionalidad" : "Congoleño"
     },
     {
         "Id" : "7",
         "Nombre" : "Nicolas BAMBA",
-        "FechaNac" : "24/08/2000",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 2.7,
         "Nacionalidad" : "Marfileño"
     },
     {
         "Id" : "8",
         "Nombre" : "Sarah OUATTARA",
-        "FechaNac" : "30/03/2001",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 17.3,
         "Nacionalidad" : "Burkinabe"
     },
     {
         "Id" : "9",
         "Nombre" : "David KAMARA",
-        "FechaNac" : "17/10/2002",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 14.0,
         "Nacionalidad" : "Senegalés"
     },
     {
         "Id" : "10",
         "Nombre" : "Julie DIOP",
-        "FechaNac" : "05/12/1999",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 11.9,
         "Nacionalidad" : "Senegalés"
     },
     {
         "Id" : "11",
         "Nombre" : "Jean CISSÉ",
-        "FechaNac" : "22/04/2001",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 13.5,
         "Nacionalidad" : "Maliense"
     },
     {
         "Id" : "12",
         "Nombre" : "Moussa SOW",
-        "FechaNac" : "19/06/2001",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 16.1,
         "Nacionalidad" : "Maliense"
     },
     {
         "Id" : "13",
         "Nombre" : "Fatou KOUADIO",
-        "FechaNac" : "14/03/2002",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 12.2,
         "Nacionalidad" : "Marfileño"
     },
     {
         "Id" : "14",
         "Nombre" : "Marc TOUNKARA",
-        "FechaNac" : "27/09/2000",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 14.8,
         "Nacionalidad" : "Guineano"
     },
     {
         "Id" : "15",
         "Nombre" : "Awa SYLLA",
-        "FechaNac" : "03/05/2001",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 10.9,
         "Nacionalidad" : "Senegalés"
     },
     {
         "Id" : "16",
         "Nombre" : "Arthur MBEKI",
-        "FechaNac" : "12/11/1999",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 15.6,
         "Nacionalidad" : "Congoleño"
     },
     {
         "Id" : "17",
         "Nombre" : "Inès GOMA",
-        "FechaNac" : "31/07/2002",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 13.4,
         "Nacionalidad" : "Gabonés"
     },
     {
         "Id" : "18",
         "Nombre" : "Patrick NDIARI",
-        "FechaNac" : "08/02/2001",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 11.5,
         "Nacionalidad" : "Centroafricano"
     },
     {
         "Id" : "19",
         "Nombre" : "Alima SACKO",
-        "FechaNac" : "19/10/2000",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 16.4,
         "Nacionalidad" : "Maliense"
     },
     {
         "Id" : "20",
         "Nombre" : "Christian TCHAMENI",
-        "FechaNac" : "25/04/2003",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 14.1,
         "Nacionalidad" : "Camerunés"
     },
     {
         "Id" : "21",
         "Nombre" : "Mariam COULIBALY",
-        "FechaNac" : "06/08/2001",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 12.9,
         "Nacionalidad" : "Marfileño"
     },
     {
         "Id" : "22",
         "Nombre" : "Eric NGASSAM",
-        "FechaNac" : "15/01/2000",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 15.0,
         "Nacionalidad" : "Camerunés"
     },
     {
         "Id" : "23",
         "Nombre" : "Aminata BARRY",
-        "FechaNac" : "21/12/2002",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 11.7,
         "Nacionalidad" : "Guineano"
     },
     {
         "Id" : "24",
         "Nombre" : "Rodrigue ZONGO",
-        "FechaNac" : "10/06/1999",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 16.7,
         "Nacionalidad" : "Burkinabe"
     },
     {
         "Id" : "25",
         "Nombre" : "Sonia KEITA",
-        "FechaNac" : "04/03/2001",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 13.8,
         "Nacionalidad" : "Maliense"
     },
     {
         "Id" : "26",
         "Nombre" : "Yannick ONDO",
-        "FechaNac" : "18/09/2000",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 10.6,
         "Nacionalidad" : "Gabonés"
     },
     {
         "Id" : "27",
         "Nombre" : "Cynthia NDOME",
-        "FechaNac" : "29/07/2002",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 14.3,
         "Nacionalidad" : "Camerunés"
     },
     {
         "Id" : "28",
         "Nombre" : "Fousseni KONÉ",
-        "FechaNac" : "13/11/2001",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 12.1,
         "Nacionalidad" : "Marfileño"
     },
     {
         "Id" : "29",
         "Nombre" : "Vanessa MBANG",
-        "FechaNac" : "02/05/2000",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 15.9,
         "Nacionalidad" : "Centroafricano"
     },
     {
         "Id" : "30",
         "Nombre" : "Olivier SAWADOGO",
-        "FechaNac" : "22/01/2003",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 13.2,
         "Nacionalidad" : "Burkinabe"
     },
     {
         "Id" : "31",
         "Nombre" : "Rokia TRAORÉ",
-        "FechaNac" : "17/08/2001",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 11.4,
         "Nacionalidad" : "Maliense"
     },
     {
         "Id" : "32",
         "Nombre" : "Serge MBOUMBA",
-        "FechaNac" : "09/12/1999",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 16.5,
         "Nacionalidad" : "Gabonés"
     },
     {
         "Id" : "33",
         "Nombre" : "Clarisse NZEYIMANA",
-        "FechaNac" : "30/04/2002",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 14.7,
         "Nacionalidad" : "Burundés"
     },
     {
         "Id" : "34",
         "Nombre" : "Alain COMPAORÉ",
-        "FechaNac" : "11/10/2000",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 9.3,
         "Nacionalidad" : "Burkinabe"
     },
     {
         "Id" : "35",
         "Nombre" : "Sandrine KABORE",
-        "FechaNac" : "26/03/2001",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 10.1,
         "Nacionalidad" : "Burkinabe"
     },
     {
         "Id" : "36",
         "Nombre" : "Brice ESSOMBA",
-        "FechaNac" : "07/07/2002",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 15.4,
         "Nacionalidad" : "Camerunés"
     },
     {
         "Id" : "37",
         "Nombre" : "Florence LOUA",
-        "FechaNac" : "14/02/1999",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 13.6,
         "Nacionalidad" : "Guineano"
     },
     {
         "Id" : "38",
         "Nombre" : "Gildas MOKOKO",
-        "FechaNac" : "23/09/2001",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 11.8,
         "Nacionalidad" : "Congoleño"
     },
     {
         "Id" : "39",
         "Nombre" : "Tatiana YOMBO",
-        "FechaNac" : "05/06/2000",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 16.2,
         "Nacionalidad" : "Centroafricano"
     },
     {
         "Id" : "40",
         "Nombre" : "Dimitri NGUEMA",
-        "FechaNac" : "19/12/2002",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 14.4,
         "Nacionalidad" : "Gabonés"
     },
     {
         "Id" : "41",
         "Nombre" : "Esther BANZA",
-        "FechaNac" : "01/08/2001",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 12.5,
         "Nacionalidad" : "Congoleño"
     },
     {
         "Id" : "42",
         "Nombre" : "Hervé TCHINDA",
-        "FechaNac" : "16/01/2003",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 10.8,
         "Nacionalidad" : "Camerunés"
     },
     {
         "Id" : "43",
         "Nombre" : "Isabelle SANON",
-        "FechaNac" : "28/11/1999",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 15.1,
         "Nacionalidad" : "Burkinabe"
     },
     {
         "Id" : "44",
         "Nombre" : "Jonathan KABBA",
-        "FechaNac" : "10/05/2001",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 13.9,
         "Nacionalidad" : "Sierraleonés"
     },
     {
         "Id" : "45",
         "Nombre" : "Khadija SALL",
-        "FechaNac" : "24/07/2000",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 8.3,
         "Nacionalidad" : "Mauritano"
     },
     {
         "Id" : "46",
         "Nombre" : "Lionel MPASSI",
-        "FechaNac" : "08/03/2002",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 16.9,
         "Nacionalidad" : "Congoleño"
     },
     {
         "Id" : "47",
         "Nombre" : "Nadège OUÉDRAOGO",
-        "FechaNac" : "15/10/2001",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 14.6,
         "Nacionalidad" : "Burkinabe"
     },
     {
         "Id" : "48",
         "Nombre" : "Patrice BOUM",
-        "FechaNac" : "03/04/2000",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 12.4,
         "Nacionalidad" : "Camerunés"
     },
     {
         "Id" : "49",
         "Nombre" : "Raïssa TOURE",
-        "FechaNac" : "12/09/2002",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 10.5,
         "Nacionalidad" : "Marfileño"
     },
     {
         "Id" : "50",
         "Nombre" : "Sylvain BATIONO",
-        "FechaNac" : "21/06/1999",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 15.7,
         "Nacionalidad" : "Burkinabe"
     },
     {
         "Id" : "51",
         "Nombre" : "Ulrich MBADINGA",
-        "FechaNac" : "07/02/2001",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 5.3,
         "Nacionalidad" : "Gabonés"
     },
     {
         "Id" : "52",
         "Nombre" : "Valérie NJOH",
-        "FechaNac" : "30/12/2000",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 11.1,
         "Nacionalidad" : "Camerunés"
     },
     {
         "Id" : "53",
         "Nombre" : "William TANOH",
-        "FechaNac" : "14/08/2003",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 16.0,
         "Nacionalidad" : "Marfileño"
     },
     {
         "Id" : "54",
         "Nombre" : "Xavier LOUVOUANDOU",
-        "FechaNac" : "18/05/2001",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 14.2,
         "Nacionalidad" : "Congoleño"
     },
     {
         "Id" : "55",
         "Nombre" : "Yasmine DIABATÉ",
-        "FechaNac" : "02/11/2000",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 12.0,
         "Nacionalidad" : "Marfileño"
     },
     {
         "Id" : "56",
         "Nombre" : "Zéphyrin COLO",
-        "FechaNac" : "25/01/2002",
         "Carrera" : "SVT",
+        "Total_creditos" : 33,
+        "Nota_final" : 15.3,
         "Nacionalidad" : "Gabonés"
     }
 ]
-
-

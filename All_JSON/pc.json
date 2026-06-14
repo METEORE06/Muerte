@@ -1,0 +1,283 @@
+[
+    {
+        "Id" : "57",
+        "Nombre" : "Arthur BONG",
+        "FechaNac" : "14/04/2001",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Camerunés"
+    },
+    {
+        "Id" : "58",
+        "Nombre" : "Béatrice ADAMA",
+        "FechaNac" : "22/11/2002",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Centroafricano"
+    },
+    {
+        "Id" : "59",
+        "Nombre" : "Cédric MVE",
+        "FechaNac" : "05/09/2000",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Gabonés"
+    },
+    {
+        "Id" : "60",
+        "Nombre" : "Dorothée SANOU",
+        "FechaNac" : "18/01/2003",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Burkinabe"
+    },
+    {
+        "Id" : "61",
+        "Nombre" : "Emmanuel TSHILOMBO",
+        "FechaNac" : "30/06/1999",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Congoleño"
+    },
+    {
+        "Id" : "62",
+        "Nombre" : "Fatoumata SACKO",
+        "FechaNac" : "12/10/2001",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Maliense"
+    },
+    {
+        "Id" : "63",
+        "Nombre" : "Gaston GAKOSSO",
+        "FechaNac" : "07/03/2002",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Congoleño"
+    },
+    {
+        "Id" : "64",
+        "Nombre" : "Hélène KONDÉ",
+        "FechaNac" : "25/08/2000",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Guineano"
+    },
+    {
+        "Id" : "65",
+        "Nombre" : "Ibrahim NIANG",
+        "FechaNac" : "11/02/2001",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Senegalés"
+    },
+    {
+        "Id" : "66",
+        "Nombre" : "Josiane EBOLA",
+        "FechaNac" : "03/07/2002",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Camerunés"
+    },
+    {
+        "Id" : "67",
+        "Nombre" : "Kévin NDONG",
+        "FechaNac" : "19/12/1999",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Gabonés"
+    },
+    {
+        "Id" : "68",
+        "Nombre" : "Latifa BARRO",
+        "FechaNac" : "28/05/2001",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Burkinabe"
+    },
+    {
+        "Id" : "69",
+        "Nombre" : "Marius NGOUALA",
+        "FechaNac" : "14/09/2000",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Congoleño"
+    },
+    {
+        "Id" : "70",
+        "Nombre" : "Nafissatou CISSÉ",
+        "FechaNac" : "02/04/2003",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Maliense"
+    },
+    {
+        "Id" : "71",
+        "Nombre" : "Ousmane DIA",
+        "FechaNac" : "21/11/2001",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Senegalés"
+    },
+    {
+        "Id" : "72",
+        "Nombre" : "Prisca MBAI",
+        "FechaNac" : "09/06/2000",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Centroafricano"
+    },
+    {
+        "Id" : "73",
+        "Nombre" : "Quentin BILOGO",
+        "FechaNac" : "15/01/2002",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Gabonés"
+    },
+    {
+        "Id" : "74",
+        "Nombre" : "Rachid COULIBALY",
+        "FechaNac" : "30/08/1999",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Marfileño"
+    },
+    {
+        "Id" : "75",
+        "Nombre" : "Sabine TCHOUTA",
+        "FechaNac" : "24/03/2002",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Camerunés"
+    },
+    {
+        "Id" : "76",
+        "Nombre" : "Toussaint LOUA",
+        "FechaNac" : "01/11/2000",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Guineano"
+    },
+    {
+        "Id" : "77",
+        "Nombre" : "Ulrich KABORE",
+        "FechaNac" : "13/07/2001",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Burkinabe"
+    },
+    {
+        "Id" : "78",
+        "Nombre" : "Viviane MABIALA",
+        "FechaNac" : "05/12/2002",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Congoleño"
+    },
+    {
+        "Id" : "79",
+        "Nombre" : "Willy NGUEMA",
+        "FechaNac" : "17/02/2000",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Gabonés"
+    },
+    {
+        "Id" : "80",
+        "Nombre" : "Xavière GOMA",
+        "FechaNac" : "26/05/2001",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Congoleño"
+    },
+    {
+        "Id" : "81",
+        "Nombre" : "Yaya DIALLO",
+        "FechaNac" : "08/10/1999",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Guineano"
+    },
+    {
+        "Id" : "82",
+        "Nombre" : "Zita AKOU",
+        "FechaNac" : "11/03/2002",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Togués"
+    },
+    {
+        "Id" : "83",
+        "Nombre" : "Alain TOURE",
+        "FechaNac" : "19/06/2001",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Marfileño"
+    },
+    {
+        "Id" : "84",
+        "Nombre" : "Bernadette MATSOUA",
+        "FechaNac" : "04/01/2003",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Congoleño"
+    },
+    {
+        "Id" : "85",
+        "Nombre" : "Christian OKA",
+        "FechaNac" : "22/09/2000",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Camerunés"
+    },
+    {
+        "Id" : "86",
+        "Nombre" : "Denise ZONGO",
+        "FechaNac" : "14/02/2001",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Burkinabe"
+    },
+    {
+        "Id" : "87",
+        "Nombre" : "Éric MANGA",
+        "FechaNac" : "31/07/1999",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Gabonés"
+    },
+    {
+        "Id" : "88",
+        "Nombre" : "Florence SOW",
+        "FechaNac" : "09/12/2001",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Senegalés"
+    },
+    {
+        "Id" : "89",
+        "Nombre" : "Gérard TOUNKARA",
+        "FechaNac" : "27/04/2002",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Guineano"
+    },
+    {
+        "Id" : "90",
+        "Nombre" : "Henriette BARRY",
+        "FechaNac" : "16/11/2000",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Maliense"
+    },
+    {
+        "Id" : "91",
+        "Nombre" : "Innocent NZEYIMANA",
+        "FechaNac" : "02/05/2002",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Burundés"
+    },
+    {
+        "Id" : "92",
+        "Nombre" : "Juliette TANOH",
+        "FechaNac" : "13/08/2001",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Marfileño"
+    },
+    {
+        "Id" : "93",
+        "Nombre" : "Karamoko TRAORÉ",
+        "FechaNac" : "20/03/2003",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Maliense"
+    },
+    {
+        "Id" : "94",
+        "Nombre" : "Lucienne MBANG",
+        "FechaNac" : "07/01/2000",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Centroafricano"
+    },
+    {
+        "Id" : "95",
+        "Nombre" : "Marc ESSOMBA",
+        "FechaNac" : "24/10/2001",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Camerunés"
+    },
+    {
+        "Id" : "96",
+        "Nombre" : "Nadine ONDO",
+        "FechaNac" : "15/06/2002",
+        "Carrera" : "PC",
+        "Nacionalidad" : "Gabonés"
+    }
+]
+

@@ -1,0 +1,123 @@
+
+[
+    {
+        "Id" : "97",
+        "Nombre" : "Olivier SAWADOGO",
+        "Carrera" : "MA",
+        "Total_creditos" : 30,
+        "Nota_final" : 14.5,
+        "Nacionalidad" : "Burkinabe"
+    },
+    {
+        "Id" : "98",
+        "Nombre" : "Pauline DIOP",
+        "Carrera" : "MA",
+        "Total_creditos" : 30,
+        "Nota_final" : 11.2,
+        "Nacionalidad" : "Senegalés"
+    },
+    {
+        "Id" : "99",
+        "Nombre" : "Rodrigue KAMARA",
+        "Carrera" : "MA",
+        "Total_creditos" : 30,
+        "Nota_final" : 16.8,
+        "Nacionalidad" : "Guineano"
+    },
+    {
+        "Id" : "100",
+        "Nombre" : "Sylvie KOFFI",
+        "Carrera" : "MA",
+        "Total_creditos" : 30,
+        "Nota_final" : 3.1,
+        "Nacionalidad" : "Marfileño"
+    },
+    {
+        "Id" : "101",
+        "Nombre" : "Thomas TCHAMENI",
+        "Carrera" : "MA",
+        "Total_creditos" : 30,
+        "Nota_final" : 10.5,
+        "Nacionalidad" : "Camerunés"
+    },
+    {
+        "Id" : "102",
+        "Nombre" : "Ursule MBOUMBA",
+        "Carrera" : "MA",
+        "Total_creditos" : 30,
+        "Nota_final" : 15.4,
+        "Nacionalidad" : "Gabonés"
+    },
+    {
+        "Id" : "103",
+        "Nombre" : "Victor KOUADIO",
+        "Carrera" : "MA",
+        "Total_creditos" : 30,
+        "Nota_final" : 12.9,
+        "Nacionalidad" : "Marfileño"
+    },
+    {
+        "Id" : "104",
+        "Nombre" : "Wendy MPASSI",
+        "Carrera" : "MA",
+        "Total_creditos" : 30,
+        "Nota_final" : 14.0,
+        "Nacionalidad" : "Congoleño"
+    },
+    {
+        "Id" : "105",
+        "Nombre" : "Xavier BATIONO",
+        "Carrera" : "MA",
+        "Total_creditos" : 30,
+        "Nota_final" : 17.2,
+        "Nacionalidad" : "Burkinabe"
+    },
+    {
+        "Id" : "106",
+        "Nombre" : "Yasmine SOW",
+        "Carrera" : "MA",
+        "Total_creditos" : 30,
+        "Nota_final" : 11.8,
+        "Nacionalidad" : "Senegalés"
+    },
+    {
+        "Id" : "107",
+        "Nombre" : "Zacharie NJOH",
+        "Carrera" : "MA",
+        "Total_creditos" : 30,
+        "Nota_final" : 9.6,
+        "Nacionalidad" : "Camerunés"
+    },
+    {
+        "Id" : "108",
+        "Nombre" : "Amadou SYLLA",
+        "Carrera" : "MA",
+        "Total_creditos" : 30,
+        "Nota_final" : 15.1,
+        "Nacionalidad" : "Senegalés"
+    },
+    {
+        "Id" : "109",
+        "Nombre" : "Brigitte GOMA",
+        "Carrera" : "MA",
+        "Total_creditos" : 30,
+        "Nota_final" : 12.3,
+        "Nacionalidad" : "Gabonés"
+    },
+    {
+        "Id" : "110",
+        "Nombre" : "Charles DANG",
+        "Carrera" : "MA",
+        "Total_creditos" : 30,
+        "Nota_final" : 9.9,
+        "Nacionalidad" : "Centroafricano"
+    },
+    {
+        "Id" : "111",
+        "Nombre" : "Danielle COULIBALY",
+        "Carrera" : "MA",
+        "Total_creditos" : 30,
+        "Nota_final" : 10.9,
+        "Nacionalidad" : "Centroafricano"
+    }
+]
